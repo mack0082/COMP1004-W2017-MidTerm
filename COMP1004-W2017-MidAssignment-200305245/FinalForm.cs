@@ -51,5 +51,11 @@ namespace COMP1004_W2017_MidAssignment_200305245
         {
 
         }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AboutForm aboutForm = new AboutForm();
+            aboutForm.ShowDialog();
+        }
     }
 }
