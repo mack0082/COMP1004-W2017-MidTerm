@@ -1,0 +1,12 @@
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe.config
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\bin\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\obj\Debug\COMP1004_W2017_MidAssignment_200305245.AbilityForm.resources
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\obj\Debug\COMP1004_W2017_MidAssignment_200305245.FinalForm.resources
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\obj\Debug\COMP1004_W2017_MidAssignment_200305245.JobForm.resources
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\obj\Debug\COMP1004_W2017_MidAssignment_200305245.Properties.Resources.resources
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\obj\Debug\COMP1004_W2017_MidAssignment_200305245.RaceForm.resources
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\obj\Debug\COMP1004-W2017-MidAssignment-200305245.csproj.GenerateResource.Cache
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\obj\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\obj\Debug\COMP1004-W2017-MidTermAssgnment-StudentID.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\COMP1004-W2017-MidAssignment-200305245\COMP1004-W2017-MidAssignment-200305245\obj\Debug\COMP1004-W2017-MidAssignment-200305245.csprojResolveAssemblyReference.cache
